@@ -10,7 +10,7 @@ Backend: Node.js, Express.js
 
 Databases: MongoDB
 
-Programming Languages: C, C++, JavaScript, Typescript
+Programming Languages: C, C++, JavaScript, TypeScript
 
 Tools: Git, GitHub, VSCode, Postman
 
