@@ -7,9 +7,8 @@ Full Stack Developer
 I’m a passionate web developer and computer science student with a strong focus on building functional and user-friendly web applications. With experience in the MERN stack (MongoDB, Express, React, Node.js) and Tailwind CSS, I love solving problems and building solutions that can make an impact.
 
 * 🌍  I'm based in Firozabad, India
-* 🖥️  See my portfolio at [MyPorfolio](http://subhash1.vercel.app)
+* 🖥️  See my portfolio at [MyPorfolio](https://subhash-porfolio.vercel.app/)
 * ✉️  You can contact me at [subhashkushwah134@gmail.com](mailto:subhashkushwah134@gmail.com)
-* 🚀  I'm currently working on [ExamVault](http://github.com/FZRAJPUT/ExamVault)
 * 🧠  I'm learning React-Native
 
 ### Skills
